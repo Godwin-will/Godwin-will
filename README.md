@@ -3,7 +3,7 @@
 <h2>🌟 About Me:</h2>
 
 - 🧑‍💻 [My LinkedIn Profle](https://www.linkedin.com/in/uche-emma/)
-- 💬 Ask me anything about using software solutions to automate and optimize business processes.
+- 💬 Ask me anything about software solutions for business process optimization and automation.
 - 🥁 Fun fact: I play drums and have been playing since I was 13.
 
 <h2>💻 Some of the Technologies I Use </h2>
