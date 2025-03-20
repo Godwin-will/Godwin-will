@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼 I'm Uche! </h1><h3 align="center">I am a Microsoft Power Platform Software Engineer specialized in Solution Architecture & Low-Code Software Development and skilled in both the aesthetics and logical aspects of building applications that scale and solve real-world challenges.</h3>
+<h1 align="center">Hi 👋🏼 I'm Uche! </h1><h3 align="center">I am a Microsoft Power Platform Software Engineer specialized in Solution Architecture & Low-Code Software Development. I am skilled in both the aesthetics and logical aspects of building applications that scale and solve real-world challenges.</h3>
 
 <h2>🌟 About Me:</h2>
 
